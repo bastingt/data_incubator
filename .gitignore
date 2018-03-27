@@ -38,4 +38,5 @@ config.rst
 
 /.project
 /.pydevproject
+*.slide.html
 
