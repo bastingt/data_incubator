@@ -1,0 +1,10 @@
+https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67 - site for slides in jupyter
+
+https://matplotlib.org/users/pyplot_tutorial.html - site for notes on how to code in graphs
+
+To open jupyter notebook
+Terminal
+cd git
+cd data_incubator
+pipenv shell
+jupyter notebook
