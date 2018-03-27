@@ -13,6 +13,4 @@ This repo contains an example lecture for Data Incubator
   - `cd data_incubator`
   - `pipenv install`
 - Run Slideshow
-  - `pipenv run jupyter nbconvert MadMath.ipynb --to slides --post serve`
-- or Run Jupyter Notebook
   - `pipenv run jupyter notebook`
