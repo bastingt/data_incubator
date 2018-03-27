@@ -1,6 +1,6 @@
 # Madmen turning into Mathmen
 This repo contains an example lecture for Data Incubator
-![alt text](http://url/to/img.png)
+![title slide](https://github.com/bastingt/data_incubator/blob/master/resources/title.png)
 
 ## Install Instructions
 - Clone this repo
