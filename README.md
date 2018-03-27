@@ -1,5 +1,5 @@
 # Madmen turning into Mathmen
-![title slide](https://github.com/bastingt/data_incubator/blob/master/resources/jumbotron.png)
+![title slide](https://github.com/bastingt/data_incubator/blob/master/resources/jumbotron.png)  
 
 This repo contains an example lecture for Data Incubator  
 
@@ -10,8 +10,9 @@ This repo contains an example lecture for Data Incubator
   - For Mac `brew install pipenv`
   - For Windows/non-brew users `pip3 install pipenv`
 - Create a virtual environment and install libraries
+  - `cd data_incubator`
   - `pipenv install`
-- Run Jupyter Notebook or
-  - `pipenv run jupyter notebook`
 - Run Slideshow
   - `pipenv run jupyter nbconvert MadMath.ipynb --to slides --post serve`
+- or Run Jupyter Notebook
+  - `pipenv run jupyter notebook`
