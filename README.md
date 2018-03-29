@@ -1,4 +1,4 @@
-# Mad men turning into Math men
+# Mad Men Turning into Math Men
 ![title slide](https://github.com/bastingt/data_incubator/blob/master/resources/jumbotron.png)  
 
 This repo contains an example lecture for Data Incubator  
